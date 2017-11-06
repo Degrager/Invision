@@ -1,0 +1,9 @@
+Package: com.invision
+Name: Invision
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An All-in-one tweak to replace Anemone, iWidgets, HideMeX, and More
+Maintainer: Degrager, ArtikusHG, Squ1dd13
+Author: Degrager
+Section: Tweaks
